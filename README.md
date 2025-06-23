@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @parthmah
-- 👀 I’m interested in engineering and machine learning
-- 🌱 I’m currently learning Electrical and Computer Engineering and Statistics and Machine Learning
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me parthmah@cmu.edu
+- 👋 Hi, I’m Parth Maheshwari @parthmah
+- 🌱 I’m currently working at AMD, delivering bug-free first silicon
+- 🎓 I got my MS and BS in Electrical and Computer Engineering at Carnegie Mellon
+- 📫 How to reach me hi@parthmah.com
 
 <!---
 parthmah/parthmah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
